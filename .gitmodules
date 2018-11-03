@@ -1,0 +1,3 @@
+[submodule "gravatar"]
+	path = gravatar
+	url = git@gist.github.com:bd98ace968bab755c1346de949410df3.git
